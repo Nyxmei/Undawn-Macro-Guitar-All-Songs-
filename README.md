@@ -32,7 +32,7 @@ I've created a Python script that enables you to play all the songs on the Undaw
 
 # Links
  
-  Macro.py zip
+  Main.py zip
      
  -[Github](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Myinx/Undawn-Macro-Guitar-All-Songs/main.py)
      
